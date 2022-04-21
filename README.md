@@ -7,5 +7,5 @@ Use this tool to reset COM ports being in 'use' back to 'unused'
 
 ### Or download the lastest release [HERE](https://github.com/bouletmarc/COM_Ports_Reset/releases)
 
+![alt text](https://github.com/bouletmarc/COM_Ports_Reset/blob/main/COMPortReseter_2022-04-21_07-05-55.png?raw=true)
 
-https://github.com/bouletmarc/COM_Ports_Reset/blob/main/COMPortReseter_2022-04-21_07-05-55.png?raw=true
