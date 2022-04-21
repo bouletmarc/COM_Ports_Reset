@@ -1,0 +1,8 @@
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\bin\Debug\COMPortReseter.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\bin\Debug\COMPortReseter.pdb
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.csprojAssemblyReference.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.Form1.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.Properties.Resources.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.csproj.GenerateResource.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\COMPortReseter\COMPortReseter\obj\Debug\COMPortReseter.pdb
